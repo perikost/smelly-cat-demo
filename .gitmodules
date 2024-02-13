@@ -1,3 +1,6 @@
 [submodule "smelly-cat-server"]
 	path = smelly-cat-server
 	url = https://github.com/perikost/smelly-cat-server.git
+[submodule "smelly-cat-client"]
+	path = smelly-cat-client
+	url = https://github.com/perikost/smelly-cat-client.git
