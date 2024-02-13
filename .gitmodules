@@ -1,0 +1,3 @@
+[submodule "smelly-cat-server"]
+	path = smelly-cat-server
+	url = https://github.com/perikost/smelly-cat-server.git
